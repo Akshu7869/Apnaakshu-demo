@@ -1,4 +1,4 @@
 # Apnaakshu-demo
-this is my first gift repository
+This is my first Gift Repository
 <br>
 Author - Akshay soni
